@@ -23,7 +23,7 @@ body{
     border: 5px solid #2c3e50;
     border-bottom: none;
     box-sizing: border-box;
-    
+
     background-color: #c0392b;
     padding: 10px;
 }
@@ -32,9 +32,9 @@ body{
     position: absolute;
     width: 80px;
     height: 80px;
-    
     background-color: #27ae60;
     border-radius: 50%;
+    
 }
 
 #arrows{
@@ -62,13 +62,34 @@ body{
     height:60px;
     line-height: 60px;
     
-    background-color: #95a5a6;
+    background-color:#7f8c8d;
     font-size: 25px;
     font-weight: bold;
     cursor: pointer;
     user-select: none;
+    
 }
 
 .arrow:active{
     background-color: #7f8c8d
 }
+
+.headrer2{
+         color: springgreen;
+         font-size: 50px ;
+         background-color: white;
+         display: inline;
+         margin-left: 285px;
+}
+.button{
+        color:blue;
+        position: relative;
+        left: 170px;
+}
+#1{
+   
+
+}
+
+
+
